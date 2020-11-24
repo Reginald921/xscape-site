@@ -1,41 +1,33 @@
+
 .social-icons{
-    width: 200px;
-    text-align: center;
-     position: relative;
-    margin-left: 150px;
-  }
-  .social-icons img{
-    height: 20px;
-    margin: 0 14px;
-  }
-  
-  .font_headers {
-    font-family: Playfair Display;
-  }
-  
-  .font_txt {
-    font-family: Source Sans Pro;
-  }
+  width: 200px;
+  text-align: center;
+   position: relative;
+  margin-left: 150px;
+}
+.social-icons img{
+  height: 20px;
+  margin: 0 14px;
+}
 
- h1 {
+.font_headers {
   font-family: Playfair Display;
- } 
- 
- h5 {
-  font-family: Source Sans Pro; 
- }
+}
 
-a {
+.font_txt {
   font-family: Source Sans Pro;
 }
 
-p {
-  font-family: Source Sans Pro;
+.margin_10 {
+  margin: 10px;
 }
 
-.center_card {
-  display: block;
-  justify-content: center;
-  align-items: center;
-  
+.background_img { 
+  width: 100vw;
+  height: 100vh;
+  background: url(https://image.freepik.com/free-vector/spot-light-background_1284-4685.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
